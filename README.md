@@ -186,4 +186,4 @@ const handleMarkerClick = (val) => {
 
 地图可以自由切换大小，并且可以通过标记切换大小和中心点
 
-![img2](file:///C:/Users/XX/Desktop/assets/1.gif)
+![img2](assets/1.gif)
